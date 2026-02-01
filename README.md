@@ -31,7 +31,7 @@ Me chamo Erick Gabriel, tenho 21 anos e atualmente resido em Brasília. Estou cu
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Meu Status</h3>
 
 ###
 
