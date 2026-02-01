@@ -30,14 +30,3 @@ Me chamo Erick Gabriel, tenho 21 anos e atualmente resido em Brasília. Estou cu
 </div>
 
 ###
-
-<h3 align="left">Meu Status</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=erick-igm&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=erick-igm&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
